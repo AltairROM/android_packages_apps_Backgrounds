@@ -1,20 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
      SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-FileCopyrightText: Altair ROM Project
      SPDX-License-Identifier: Apache-2.0
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <array name="partner_wallpapers" translatable="false">
-        <item>ascension_blaze</item>
-        <item>ascension_ice</item>
-        <item>ascension_mist</item>
-        <item>ascension_shade</item>
-        <item>ascension_sunset</item>
-        <item>ascension_teal_light</item>
-        <item>expansion</item>
-        <item>operation</item>
-        <item>progression</item>
-        <item>propulsion</item>
-        <item>tessellation</item>
+        <item>andromeda_galaxy_by_guillermo_ferla</item>
+        <item>blue_and_black_galaxy_by_aldeberan_s</item>
+        <item>colorful_galaxy_by_jeremy_thomas</item>
+        <item>galaxy_by_shot_by_cerqueira</item>
+        <item>m31_galaxy_by_chen_liu</item>
+        <item>milky_way_by_ivan_cajina</item>
+        <item>nebula_by_nasa</item>
+        <item>pelican_nebula_by_aldeberan_s</item>
+        <item>rosette_nebula_by_aldeberan_s</item>
+        <item>space_story_by_joel_filipe</item>
+        <item>the_heavens_by_alexander_andrews</item>
+        <item>wings_of_orion_by_aldeberan_s</item>
     </array>
 </resources>
